@@ -1,5 +1,5 @@
-name: Beepboop Starterbot
-description: A simple Python bot sample for Beep Boop
+name: NTA bot
+description: A simple NTA bot for answering questions
 avatar: resources/avatar.png
 background: resources/background.png
 config:
